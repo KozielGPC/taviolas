@@ -1,0 +1,9 @@
+{
+    "name": "taviolas.js",
+    "version": "1.0.0",
+    "main": "taviolas.js",
+    "dependencies": {
+      "jimp": "^0.16.2",
+      "readline-sync": "^1.4.10"
+    }
+  }
